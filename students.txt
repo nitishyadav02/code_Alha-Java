@@ -1,0 +1,6 @@
+STUDENT:priyanshu kumar
+TEST,35.0
+TEST,45.0
+TEST,58.0
+ASSIGNMENT,65.0
+END

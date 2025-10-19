@@ -1,0 +1,4 @@
+[18:12:51] User: hello
+[18:12:51] Bot: Hello! How can I help you today?
+[18:12:56] User: hii
+[18:12:56] Bot: Sorry, I don't know the exact answer to that. Could you rephrase?
